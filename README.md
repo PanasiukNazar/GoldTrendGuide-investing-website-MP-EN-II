@@ -1,0 +1,1 @@
+# GoldTrendGuide-investing-website-MP-EN-II
