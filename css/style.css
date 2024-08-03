@@ -692,6 +692,8 @@
 
 .blog .blog-item .blog-img img {
     transition: 0.5s;
+    height: 350px;
+    object-fit: cover;
 }
 
 .blog .blog-item:hover .blog-img img {
